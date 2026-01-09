@@ -46,6 +46,20 @@ Specialization: DANT (Développement d'Applications Nouvelles Technologies)
 Sorbonne Université, Paris, France  
 2019
 
+
+---
+
+## Research Labs & Affiliations
+
+**Current:**
+- IDSIA (Dalle Molle Institute for Artificial Intelligence), SUPSI, Lugano, Switzerland
+
+**Past:**
+- Lattice (UMR8094 - CNRS, Sorbonne Nouvelle, ENS-PSL), Paris, France
+- LLF (UMR 7110 - CNRS, Université Paris Cité), Paris, France
+- RALI (Université de Montréal), Montréal, Canada
+
+
 ---
 
 ## Research Interests
@@ -66,6 +80,98 @@ My research is situated at the intersection of theoretical linguistics and natur
 - Distributional semantics and vector representations
 - Syntax-semantics interface
 - Language model evaluation and probing
+
+
+---
+
+## Teaching Experience
+
+**Total: 406 hours equivalent TD**
+
+### Université Sorbonne Nouvelle, Paris, France (116 HTD)
+
+**Computational Linguistics** (Master 1)  
+36 hours CM | 2022-2024 (3 years)
+- Co-created course introducing NLP to language sciences students
+- Developed pedagogical materials (slides, exercises, linguistic examples)
+- Evaluation: midterm exam, final exam, group presentation of recent NLP paper
+
+**Exploration of Annotated Corpora** (Licence 3)  
+48 hours TD | 2021-2023 (2 years)
+- Theoretical and practical training in corpus linguistics
+- Formal foundations (automata, regular expressions)
+- Hands-on project using Unitex/GramLab for linguistic phenomenon identification
+- Coordinated multiple TD groups
+
+**Introduction to NLP** (Master 2 ENEAD - Distance Learning)  
+14 hours TD | 2022-2023
+- Adapted in-person course for distance learning
+- Created comprehensive course manual with theory, exercises, and solutions
+- Produced video capsules for key concepts
+- Managed Q&A forum and produced targeted supplementary videos
+
+### Université de Rouen Normandie, Rouen, France (10 HTD)
+
+**Natural Language Processing** (Master 2)  
+10 hours TD | 2023-2024
+- Advanced NLP course for students with strong CS background
+- Focus on recent neural approaches and practical Python implementation
+- Hands-on: parsing, pretrained models, NLP API integration
+
+### Université de Montréal, Montréal, Canada (290 HTD)
+
+**Introduction to Artificial Intelligence** (Licence 3)  
+2021 (January-June)
+
+**Object-Oriented Programming** (Licence-Master)  
+2020-2021 (September-January)
+
+---
+
+## Supervision and Mentoring
+
+### Master's Research Internships (Co-supervision)
+
+**Viola Gullace** (Scuola Normale Superiore, Pisa & ENS-PSL, Paris)  
+November 2023 - June 2024  
+Topic: Impact of context polarity on encoding in contextual embeddings  
+Co-supervisor: Thierry Poibeau (Lattice)  
+Outcome: Master's thesis defended and validated; chapter in my PhD thesis
+
+**Viola Gullace** (Università di Pisa & ENS-PSL, Paris)  
+February - May 2023  
+Topic: How Do Pretrained Language Models Deal with Negation? The case of Italian  
+Co-supervisors: Thierry Poibeau (Lattice), Alessandro Lenci (Pisa), Pascal Amsili  
+Outcome: Master's thesis defended; published paper at CLiC-it 2024; chapter in my PhD thesis
+
+**Leo Rongieras** (Université Paris Cité)  
+May - June 2023  
+Topic: Impact of context polarity on encoding in contextual embeddings  
+Co-supervisor: Marie Candito
+
+**Milena Nedeljkovic** (École Polytechnique, Palaiseau)  
+January - April 2023  
+Topic: Impact of negation on the distribution of lexical items  
+Co-supervisor: Marie Candito  
+Outcome: Bachelor's thesis defended and validated; results integrated in my PhD thesis
+
+### Thesis Committee Member
+
+**Master 2 Committees:**
+- April 2024: Viola Gullace, "How Do Pretrained Language Models Deal with Negation? The case of Italian"
+- June 2023: Delphine Nguyen-Durandet, "Détection automatique et études statistiques de la polarité en anglais"
+- September 2022: Haiyan QIU, "An analysis of negation in Natural Language Inference benchmarks"
+
+**Master 1 Committee:**
+- June 2024: Students from Master Cognitive Science, ENS-PSL (Licence 3 internship evaluation)
+
+---
+
+## Professional Experience
+
+**Data Scientist and Analyst**  
+Thales LAS France, Rungis, France  
+September 2018 - August 2019
 
 ---
 
@@ -131,124 +237,6 @@ My research is situated at the intersection of theoretical linguistics and natur
 
 ---
 
-## Teaching Experience
-
-**Total: 126 hours equivalent TD**
-
-### Université Sorbonne Nouvelle, Paris, France (116 HTD)
-
-**Computational Linguistics** (Master 1)  
-36 hours CM | 2022-2024 (3 years)
-- Co-created course introducing NLP to language sciences students
-- Developed pedagogical materials (slides, exercises, linguistic examples)
-- Evaluation: midterm exam, final exam, group presentation of recent NLP paper
-
-**Exploration of Annotated Corpora** (Licence 3)  
-48 hours TD | 2021-2023 (2 years)
-- Theoretical and practical training in corpus linguistics
-- Formal foundations (automata, regular expressions)
-- Hands-on project using Unitex/GramLab for linguistic phenomenon identification
-- Coordinated multiple TD groups
-
-**Introduction to NLP** (Master 2 ENEAD - Distance Learning)  
-14 hours TD | 2022-2023
-- Adapted in-person course for distance learning
-- Created comprehensive course manual with theory, exercises, and solutions
-- Produced video capsules for key concepts
-- Managed Q&A forum and produced targeted supplementary videos
-
-### Université de Rouen Normandie, Rouen, France (10 HTD)
-
-**Natural Language Processing** (Master 2)  
-10 hours TD | 2023-2024
-- Advanced NLP course for students with strong CS background
-- Focus on recent neural approaches and practical Python implementation
-- Hands-on: parsing, pretrained models, NLP API integration
-
-### Université de Montréal, Montréal, Canada
-
-**Introduction to Artificial Intelligence** (Licence 3)  
-2021 (January-June)
-
-**Object-Oriented Programming** (Licence-Master)  
-2020-2021 (September-January)
-
----
-
-## Supervision and Mentoring
-
-### Master's Research Internships (Co-supervision)
-
-**Viola Gullace** (Scuola Normale Superiore, Pisa & ENS-PSL, Paris)  
-November 2023 - June 2024  
-Topic: Impact of context polarity on encoding in contextual embeddings  
-Co-supervisor: Thierry Poibeau (Lattice)  
-Outcome: Master's thesis defended and validated; chapter in my PhD thesis
-
-**Viola Gullace** (Università di Pisa & ENS-PSL, Paris)  
-February - May 2023  
-Topic: How Do Pretrained Language Models Deal with Negation? The case of Italian  
-Co-supervisors: Thierry Poibeau (Lattice), Alessandro Lenci (Pisa), Pascal Amsili  
-Outcome: Master's thesis defended; published paper at CLiC-it 2024; chapter in my PhD thesis
-
-**Leo Rongieras** (Université Paris Cité)  
-May - June 2023  
-Topic: Impact of context polarity on encoding in contextual embeddings  
-Co-supervisor: Marie Candito
-
-**Milena Nedeljkovic** (École Polytechnique, Palaiseau)  
-January - April 2023  
-Topic: Impact of negation on the distribution of lexical items  
-Co-supervisor: Marie Candito  
-Outcome: Bachelor's thesis defended and validated; results integrated in my PhD thesis
-
-### Thesis Committee Member
-
-**Master 2 Committees:**
-- April 2024: Viola Gullace, "How Do Pretrained Language Models Deal with Negation? The case of Italian"
-- June 2023: Delphine Nguyen-Durandet, "Détection automatique et études statistiques de la polarité en anglais"
-- September 2022: Haiyan QIU, "An analysis of negation in Natural Language Inference benchmarks"
-
-**Master 1 Committee:**
-- June 2024: Students from Master Cognitive Science, ENS-PSL (Licence 3 internship evaluation)
-
----
-
-## Professional Experience
-
-**Data Scientist and Analyst**  
-Thales LAS France, Rungis, France  
-September 2018 - August 2019 (Alternance/Work-Study)
-
-- Developed automated financial reporting system for Sales Operations division
-- Created software to generate biannual sales forecast reports (2-year and 5-year horizons)
-- Implemented database queries, statistical analyses, and automated PowerPoint generation
-- Streamlined quarterly reporting process from manual compilation to automated generation
-
----
-
-## Academic Service
-
-**Peer Review:**
-- Reviewer for FEVER Workshop (International)
-
-**Professional Development:**
-- Completed pedagogical training in teaching methods, Université Sorbonne Nouvelle
-
----
-
-## Research Labs & Affiliations
-
-**Current:**
-- IDSIA (Dalle Molle Institute for Artificial Intelligence), SUPSI, Lugano, Switzerland
-
-**Past:**
-- Lattice (UMR8094 - CNRS, Sorbonne Nouvelle, ENS-PSL), Paris, France
-- LLF (UMR 7110 - CNRS, Université Paris Cité), Paris, France
-- RALI (Université de Montréal), Montréal, Canada
-
----
-
 ## Selected Invited Talks
 
 - "Negation encoding in PLMs: Syntactic constraints and consequences" - IDSIA NLP Group, Lugano, Switzerland (2025)
@@ -257,32 +245,13 @@ September 2018 - August 2019 (Alternance/Work-Study)
 - "Probing structural constraints of negation in Pretrained Language Models" - Lattice NLP Group, Paris, France (2023)
 - "Probing structural constraints of negation in Pretrained Language Models" - LLF-LI, Paris, France (2023)
 
----
-
-## Languages
-
-- **French:** Native
-- **English:** Fluent
-- **Italian:** Intermediate
-- **German:** Basic
-
----
-
-## Technical Skills
-
-**Programming Languages:** Python, Java, C++, JavaScript  
-**NLP/ML Frameworks:** PyTorch, Transformers (Hugging Face), Scikit-learn, TensorFlow  
-**NLP Tools:** Stanza, SpaCy, NLTK, Unitex/GramLab  
-**Development Tools:** Git, Docker, Jupyter, LaTeX  
-**Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
-**Languages Studied:** Multilingual NLP (English, French, Italian)
 
 ---
 
 ## Contact Information
 
 **Email:** david.kletz@supsi.ch  
-**Office:** IDSIA, Via Besso 61, 6900 Lugano, Switzerland  
+**Office:** IDSIA, East Campus USI-SUPSI Via la Santa 1. CH-6962 Lugano-Viganello 
 **Website:** [https://davkletz.github.io](https://davkletz.github.io)  
 **GitHub:** [github.com/davkletz](https://github.com/davkletz)
 
