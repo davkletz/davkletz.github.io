@@ -74,7 +74,7 @@ Association for Computational Linguistics
 David Kletz, Philippe Langlais, François Lareau, and Patrick Drouin  
 *Proceedings of the Thirteenth Language Resources and Evaluation Conference (LREC)*, pages 2117-2125, Marseille, France  
 European Language Resources Association  
-[Paper](https://aclanthology.org/2022.lrec-1.227/)
+[Paper](https://aclanthology.org/2022.lrec-1.228/)
 
 
 
