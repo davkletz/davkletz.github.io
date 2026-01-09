@@ -30,6 +30,7 @@ Sandra Mitrović\*, Joseph Cornelius\*, David Kletz\*, Ljiljana Dolamic, and Fab
 *Proceedings of the 19th International Workshop on Semantic Evaluation (SemEval-2025)*  
 Association for Computational Linguistics  
 [\* equal contribution]
+[Paper](https://aclanthology.org/2025.semeval-1.239/)
 
 **Assessing RAG System Capabilities on Financial Documents**  
 Oscar Lithgow-Serrano, David Kletz, Vani Kanjirangat, David Adametz, Marzio Lunghi, Claudio Bonesana, Matilde Tristany-Farinha, Yuntao Li, Detlef Repplinger, Marco Pierbattista, Stefania Stan, and Oleg Szeh  
@@ -84,17 +85,19 @@ ISBN: 979-12-210-7060-6
 
 ## Other Publications
 
-### Journal Articles (Non Peer-Reviewed)
 
-**Detection of recurring defects in airline incident report**  
-D. Kletz, P. Langlais, V. Letard, L. Pages, F. Piedboeuf, H. S. Dos Santos, T. Y. Zhou, D.A. Hermelo, I. Elbaz, T. Gao, and F. Gotti  
-*Les Cahiers du GERAD* G–2021–51 iii, pages 6-21, 2021
 
 ### Preprints
 
 **Are the LLMs Capable of Maintaining at Least the Language Genus?**  
 Sandra Mitrović, David Kletz, Ljiljana Dolamic, and Fabio Rinaldi  
-arXiv:2510.21561, 2025
+[arXiv:2510.21561, 2025](https://arxiv.org/abs/2510.21561)
+
+### Journal Articles (Non Peer-Reviewed)
+
+**Detection of recurring defects in airline incident report**  
+D. Kletz, P. Langlais, V. Letard, L. Pages, F. Piedboeuf, H. S. Dos Santos, T. Y. Zhou, D.A. Hermelo, I. Elbaz, T. Gao, and F. Gotti  
+*Les Cahiers du GERAD* G–2021–51 iii, pages 6-21, 2021
 
 ---
 
@@ -105,11 +108,13 @@ David Kletz
 Université Sorbonne Nouvelle, Paris, France  
 Defended: February 4, 2025  
 Supervisors: Marie Candito (MCF-HDR, Université Paris Cité) and Pascal Amsili (Professor, Université Sorbonne Nouvelle)
+[Link](https://theses.hal.science/tel-05109867/)
 
 **Master's Thesis: Méthodologies pour la détection de diachronies sémantiques et leurs impacts**  
 David Kletz  
 Université de Montréal, 2021  
 Supervisor: Philippe Langlais, Patrick Drouin, François Lareau
+[Link](https://umontreal.scholaris.ca/items/4442bf9a-1e0a-4dd5-8b85-9e404bbfc19f)
 
 ---
 
@@ -123,7 +128,7 @@ Public dataset for hallucination annotation in language models
 **EvoSem Database**  
 Mathieu Dehouck, Alex François, Siva Kalyan, Martial Pastor, and David Kletz, 2023  
 Public database of polysemous cognate sets  
-[LChange Workshop Resource]
+[Website](https://evosem.huma-num.fr/index.html)
 
 **QC-FR-Diac-V1.0**  
 David Kletz, Philippe Langlais, François Lareau, and Patrick Drouin, 2022  
@@ -158,21 +163,3 @@ Public database, Language Resources and Evaluation Conference (LREC)
 - "Méthodologies pour la détection de diachronies sémantiques et leurs impacts"  
   Lattice NLP Group, Paris, France, October 2021
 
----
-
-## Publication Metrics Summary
-
-| Type | Published | Accepted |
-|------|-----------|----------|
-| International Conference Papers | 7 | 1 |
-| National Conference Papers | 1 | 0 |
-| Non Peer-Reviewed Journal Articles | 1 | 0 |
-| Invited Seminars | 5 | 0 |
-| Other (Preprints, Theses, Datasets) | 6 | 0 |
-| **Total** | **20** | **1** |
-
----
-
-## Research Keywords
-
-Pretrained Language Models • Negation • Compositional Semantics • NLP • Deep Learning • Multilinguality • RAG Systems • Hallucination Detection • Model Interpretability • Computational Linguistics
