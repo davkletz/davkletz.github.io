@@ -10,20 +10,6 @@ author_profile: true
 
 
 
-## Teaching Experience Overview
-
-**Total Teaching Hours:** 450 hours equivalent TD (2020-2024)
-
-I have taught across three countries (France, Canada, Switzerland) at universities including:
-- SUPSI (Lugano, Switzerland)
-- Université Sorbonne Nouvelle (Paris, France)
-- Université de Rouen Normandie (Rouen, France)  
-- Université de Montréal (Montréal, Canada)
-
-My courses span from Bachelor's (Licence 3) to Master's level (Master 2), covering computational linguistics, natural language processing, corpus linguistics, and computer science fundamentals.
-
----
-
 ## Courses Taught
 
 ### Computational Linguistics (Linguistique Computationnelle)
@@ -65,7 +51,7 @@ This distance learning course adapts the foundational content of Computational L
 ---
 
 ### Introduction to Artificial Intelligence
-**Université de Montréal | Licence 3**  
+**Université de Montréal | Licence 3 | 180 hours TD**  
 *January 2021 - June 2021*
 
 Foundational course introducing core AI concepts, algorithms, and problem-solving approaches for undergraduate computer science students.
@@ -73,28 +59,17 @@ Foundational course introducing core AI concepts, algorithms, and problem-solvin
 ---
 
 ### Object-Oriented Programming (Programmation Orientée-Objet)
-**Université de Montréal | Licence-Master (Uncycled course)**  
+**Université de Montréal | Licence-Master | 110 hours TD**  
 *September 2020 - January 2021*
 
 Course covering object-oriented programming paradigms, design patterns, and implementation in modern programming languages. Applied to Java.
 
 ---
 
-## Pedagogical Training
-
-Université Sorbonne Nouvelle
-
-Professional development training
-
-
----
-
-
 ### Research Internships Supervised
 
 **4 Master's research internships in co-supervision (January 2023 - June 2024)**
 
-All internships focused on questions related to my research themes, particularly the impact of negation and polarity on representations in pretrained language models.
 
 #### Viola Gullace (Second Internship)
 **Scuola Normale Superiore, Pisa & ENS-PSL, Paris**  
@@ -102,8 +77,6 @@ All internships focused on questions related to my research themes, particularly
 
 **Topic:** Study of the impact of context polarity on encoding in contextual embeddings  
 
-**Outcomes:**
-- Viola's Master's thesis 
 
 
 #### Viola Gullace (First Internship)
@@ -113,9 +86,8 @@ All internships focused on questions related to my research themes, particularly
 **Topic:** How Do Pretrained Language Models Deal with Negation? The case of Italian  
 
 
-**Outcomes:**
-- Viola's Master's thesis defended and validated at Università di Pisa
-- Published paper at CLiC-it 2024 (10th Italian Conference on Computational Linguistics)
+**Outcome:**
+- Paper at CLiC-it 2024
 
 
 #### Leo Rongieras
@@ -131,15 +103,10 @@ All internships focused on questions related to my research themes, particularly
 
 **Topic:** Impact of negation on the distribution of lexical items  
 
-**Outcomes:**
-- Milena's Bachelor's thesis defended and validated
-
-
 ---
 
-## Service to Students
 
-### Thesis Committee Member
+## Thesis Committee Member
 
 **Master 2 Committees:**
 - **April 2024:** Viola Gullace - "How Do Pretrained Language Models Deal with Negation? The case of Italian" (Università di Pisa)
