@@ -1,0 +1,178 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+{% include base_path %}
+
+## About My Publications
+
+My research is situated at the intersection of theoretical linguistics and natural language processing, within the field of computational linguistics. My work focuses on understanding how linguistic theory can inform and improve neural language models, with particular emphasis on negation processing, hallucination detection in LLMs, multilingual capabilities, and model interpretability.
+
+**Note on Publication Venues:** In the NLP/computational linguistics community, peer-reviewed conference proceedings (especially those indexed in the ACL Anthology) are the primary publication venue and carry significant weight, similar to journal articles in other disciplines. All conferences and workshops listed below underwent rigorous peer review with multiple expert reviewers.
+
+---
+
+## International Conference Papers (Peer-Reviewed)
+
+### 2025
+
+**Polarity inversion operators in PLM**  
+David Kletz, Pascal Amsili, and Marie Candito  
+*Proceedings of the 29th Conference on Computational Natural Language Learning (CoNLL)*, pages 312-322, Vienna, Austria  
+Association for Computational Linguistics  
+[DOI: 10.18653/v1/2025.conll-1.20](https://doi.org/10.18653/v1/2025.conll-1.20)
+
+**Swushroomsia at SemEval-2025 Task 3: Probing LLMs' Collective Intelligence for Multilingual Hallucination Detection**  
+Sandra Mitrović\*, Joseph Cornelius\*, David Kletz\*, Ljiljana Dolamic, and Fabio Rinaldi  
+*Proceedings of the 19th International Workshop on Semantic Evaluation (SemEval-2025)*  
+Association for Computational Linguistics  
+[\* equal contribution]
+
+**Assessing RAG System Capabilities on Financial Documents**  
+Oscar Lithgow-Serrano, David Kletz, Vani Kanjirangat, David Adametz, Marzio Lunghi, Claudio Bonesana, Matilde Tristany-Farinha, Yuntao Li, Detlef Repplinger, Marco Pierbattista, Stefania Stan, and Oleg Szeh  
+*Proceedings of The 10th Workshop on Financial Technology and Natural Language Processing (FinNLP)*, pages 124-147  
+[DOI: 10.18653/v1/2025.finnlp-2.9](https://doi.org/10.18653/v1/2025.finnlp-2.9)
+
+**Better Together: Towards Localizing Fact-Related Hallucinations using Open Small Language Models**  
+David Kletz, Sandra Mitrović, Ljiljana Dolamic, and Fabio Rinaldi  
+*Proceedings of the CHOMPS Workshop*, December 2025  
+[Accepted, proceedings forthcoming] [Workshop website](https://chomps-workshop.github.io/)
+
+### 2023
+
+**The Self-Contained Negation Test Set**  
+David Kletz, Pascal Amsili, and Marie Candito  
+*Proceedings of the 6th BlackboxNLP Workshop: Analyzing and Interpreting Neural Networks for NLP*, pages 212-221, Singapore  
+Association for Computational Linguistics  
+[DOI: 10.18653/v1/2023.blackboxnlp-1.16](https://doi.org/10.18653/v1/2023.blackboxnlp-1.16)
+
+**Probing structural constraints of negation in Pretrained Language Models**  
+David Kletz, Marie Candito, and Pascal Amsili  
+*Proceedings of the 24th Nordic Conference on Computational Linguistics (NoDaLiDa)*, pages 541-554, Tórshavn, Faroe Islands  
+University of Tartu Library  
+[Paper](https://aclanthology.org/2023.nodalida-1.55/)
+
+**EvoSem: A database of polysemous cognate sets**  
+Mathieu Dehouck, Alex François, Siva Kalyan, Martial Pastor, and David Kletz  
+*Proceedings of the 4th Workshop on Computational Approaches to Historical Language Change (LChange)*, pages 66-75, Singapore  
+Association for Computational Linguistics  
+[DOI: 10.18653/v1/2023.lchange-1.7](https://doi.org/10.18653/v1/2023.lchange-1.7)
+
+### 2022
+
+**A Methodology for Building a Diachronic Dataset of Semantic Shifts and its Application to QC-FR-Diac-V1.0, a Free Reference for French**  
+David Kletz, Philippe Langlais, François Lareau, and Patrick Drouin  
+*Proceedings of the Thirteenth Language Resources and Evaluation Conference (LREC)*, pages 2117-2125, Marseille, France  
+European Language Resources Association  
+[Paper](https://aclanthology.org/2022.lrec-1.227/)
+
+---
+
+## National Conference Papers (Peer-Reviewed)
+
+**The Self-Contained Italian Negation Test (SCIN)**  
+Viola Gullace, David Kletz, Thierry Poibeau, Alessandro Lenci, and Pascal Amsili  
+*Proceedings of the Tenth Italian Conference on Computational Linguistics (CLiC-it 2024)*, pages 425-430, Pisa, Italy  
+CEUR Workshop Proceedings  
+ISBN: 979-12-210-7060-6  
+[Paper](http://ceur-ws.org/Vol-3878/)
+
+---
+
+## Other Publications
+
+### Journal Articles (Non Peer-Reviewed)
+
+**Detection of recurring defects in airline incident report**  
+D. Kletz, P. Langlais, V. Letard, L. Pages, F. Piedboeuf, H. S. Dos Santos, T. Y. Zhou, D.A. Hermelo, I. Elbaz, T. Gao, and F. Gotti  
+*Les Cahiers du GERAD* G–2021–51 iii, pages 6-21, 2021
+
+### Preprints
+
+**Are the LLMs Capable of Maintaining at Least the Language Genus?**  
+Sandra Mitrović, David Kletz, Ljiljana Dolamic, and Fabio Rinaldi  
+arXiv:2510.21561, 2025
+
+---
+
+## Thesis and Dissertation
+
+**PhD Thesis: Négation et Modèles de Langue Pré-entraînés** (Negation and Pretrained Language Models)  
+David Kletz  
+Université Sorbonne Nouvelle, Paris, France  
+Defended: February 4, 2025  
+Supervisors: Marie Candito (MCF-HDR, Université Paris Cité) and Pascal Amsili (Professor, Université Sorbonne Nouvelle)
+
+**Master's Thesis: Méthodologies pour la détection de diachronies sémantiques et leurs impacts**  
+David Kletz  
+Université de Montréal, 2021  
+Supervisor: Philippe Langlais, Patrick Drouin, François Lareau
+
+---
+
+## Research Datasets and Resources
+
+**Lucifer Dataset**  
+David Kletz, Sandra Mitrović, Ljiljana Dolamic, and Fabio Rinaldi, 2025  
+Public dataset for hallucination annotation in language models  
+[GitHub](https://github.com/) [Accompanying the CHOMPS workshop paper]
+
+**EvoSem Database**  
+Mathieu Dehouck, Alex François, Siva Kalyan, Martial Pastor, and David Kletz, 2023  
+Public database of polysemous cognate sets  
+[LChange Workshop Resource]
+
+**QC-FR-Diac-V1.0**  
+David Kletz, Philippe Langlais, François Lareau, and Patrick Drouin, 2022  
+A free diachronic reference dataset for French  
+Public database, Language Resources and Evaluation Conference (LREC)  
+[GitHub](https://github.com/)
+
+---
+
+## Selected Presentations
+
+### Invited Seminars
+
+- "Negation encoding in PLMs: Syntactic constraints and consequences"  
+  IDSIA NLP Group, Lugano, Switzerland, 2025
+
+- "Negation encoding in PLMs: Syntactic constraints and consequences"  
+  ColingLab Seminar, Scuola Normale Superiore, Pisa, Italy, April 2024
+
+- "Probing structural constraints of negation in Pretrained Language Models"  
+  NLP Group, Saarland University, Saarbrücken, Germany, 2023
+
+- "Probing structural constraints of negation in Pretrained Language Models"  
+  Lattice NLP Group, Paris, France, 2023
+
+- "Probing structural constraints of negation in Pretrained Language Models"  
+  LLF-LI, LLF Laboratory, Paris, France, 2023
+
+- "Une méthodologie pour créer un corpus diachronique de changements de sens et son application à FDIAC 1.0, une ressource de référence en français"  
+  Rali-OLST Seminar, Université de Montréal, Canada, February 2022
+
+- "Méthodologies pour la détection de diachronies sémantiques et leurs impacts"  
+  Lattice NLP Group, Paris, France, October 2021
+
+---
+
+## Publication Metrics Summary
+
+| Type | Published | Accepted |
+|------|-----------|----------|
+| International Conference Papers | 7 | 1 |
+| National Conference Papers | 1 | 0 |
+| Non Peer-Reviewed Journal Articles | 1 | 0 |
+| Invited Seminars | 5 | 0 |
+| Other (Preprints, Theses, Datasets) | 6 | 0 |
+| **Total** | **20** | **1** |
+
+---
+
+## Research Keywords
+
+Pretrained Language Models • Negation • Compositional Semantics • NLP • Deep Learning • Multilinguality • RAG Systems • Hallucination Detection • Model Interpretability • Computational Linguistics
