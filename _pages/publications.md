@@ -7,15 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-## About My Publications
 
-My research is situated at the intersection of theoretical linguistics and natural language processing, within the field of computational linguistics. My work focuses on understanding how linguistic theory can inform and improve neural language models, with particular emphasis on negation processing, hallucination detection in LLMs, multilingual capabilities, and model interpretability.
-
-**Note on Publication Venues:** In the NLP/computational linguistics community, peer-reviewed conference proceedings (especially those indexed in the ACL Anthology) are the primary publication venue and carry significant weight, similar to journal articles in other disciplines. All conferences and workshops listed below underwent rigorous peer review with multiple expert reviewers.
 
 ---
 
-## International Conference Papers (Peer-Reviewed)
+## Conference Papers (Peer-Reviewed)
 
 ### 2025
 
@@ -41,6 +37,16 @@ Oscar Lithgow-Serrano, David Kletz, Vani Kanjirangat, David Adametz, Marzio Lung
 David Kletz, Sandra Mitrović, Ljiljana Dolamic, and Fabio Rinaldi  
 *Proceedings of the CHOMPS Workshop*, December 2025  
 [Accepted, proceedings forthcoming] [Workshop website](https://chomps-workshop.github.io/)
+
+
+### 2024
+
+**The Self-Contained Italian Negation Test (SCIN)**  
+Viola Gullace, David Kletz, Thierry Poibeau, Alessandro Lenci, and Pascal Amsili  
+*Proceedings of the Tenth Italian Conference on Computational Linguistics (CLiC-it 2024)*, pages 425-430, Pisa, Italy  
+CEUR Workshop Proceedings  
+ISBN: 979-12-210-7060-6  
+[Paper](http://ceur-ws.org/Vol-3878/)
 
 ### 2023
 
@@ -70,21 +76,18 @@ David Kletz, Philippe Langlais, François Lareau, and Patrick Drouin
 European Language Resources Association  
 [Paper](https://aclanthology.org/2022.lrec-1.227/)
 
----
 
-## National Conference Papers (Peer-Reviewed)
 
-**The Self-Contained Italian Negation Test (SCIN)**  
-Viola Gullace, David Kletz, Thierry Poibeau, Alessandro Lenci, and Pascal Amsili  
-*Proceedings of the Tenth Italian Conference on Computational Linguistics (CLiC-it 2024)*, pages 425-430, Pisa, Italy  
-CEUR Workshop Proceedings  
-ISBN: 979-12-210-7060-6  
-[Paper](http://ceur-ws.org/Vol-3878/)
+## About My Publications
+
+My research is situated at the intersection of theoretical linguistics and natural language processing, within the field of computational linguistics. My work focuses on understanding how linguistic theory can inform and improve neural language models, with particular emphasis on negation processing, hallucination detection in LLMs, multilingual capabilities, and model interpretability.
+
+**Note on Publication Venues:** In the NLP/computational linguistics community, peer-reviewed conference proceedings (especially those indexed in the ACL Anthology) are the primary publication venue and carry significant weight, similar to journal articles in other disciplines. All conferences and workshops listed below underwent rigorous peer review with multiple expert reviewers.
+
 
 ---
 
 ## Other Publications
-
 
 
 ### Preprints
@@ -135,31 +138,3 @@ David Kletz, Philippe Langlais, François Lareau, and Patrick Drouin, 2022
 A free diachronic reference dataset for French  
 Public database, Language Resources and Evaluation Conference (LREC)  
 [GitHub](https://github.com/)
-
----
-
-## Selected Presentations
-
-### Invited Seminars
-
-- "Negation encoding in PLMs: Syntactic constraints and consequences"  
-  IDSIA NLP Group, Lugano, Switzerland, 2025
-
-- "Negation encoding in PLMs: Syntactic constraints and consequences"  
-  ColingLab Seminar, Scuola Normale Superiore, Pisa, Italy, April 2024
-
-- "Probing structural constraints of negation in Pretrained Language Models"  
-  NLP Group, Saarland University, Saarbrücken, Germany, 2023
-
-- "Probing structural constraints of negation in Pretrained Language Models"  
-  Lattice NLP Group, Paris, France, 2023
-
-- "Probing structural constraints of negation in Pretrained Language Models"  
-  LLF-LI, LLF Laboratory, Paris, France, 2023
-
-- "Une méthodologie pour créer un corpus diachronique de changements de sens et son application à FDIAC 1.0, une ressource de référence en français"  
-  Rali-OLST Seminar, Université de Montréal, Canada, February 2022
-
-- "Méthodologies pour la détection de diachronies sémantiques et leurs impacts"  
-  Lattice NLP Group, Paris, France, October 2021
-

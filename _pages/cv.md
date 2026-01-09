@@ -128,9 +128,9 @@ My research is situated at the intersection of theoretical linguistics and natur
 
 ---
 
-## Supervision and Mentoring
+## Supervision
 
-### Master's Research Internships (Co-supervision)
+### Master's Research Internships
 
 **Viola Gullace** (Scuola Normale Superiore, Pisa & ENS-PSL, Paris)  
 November 2023 - June 2024  
@@ -141,18 +141,18 @@ Outcome: Master's thesis defended and validated; chapter in my PhD thesis
 **Viola Gullace** (Università di Pisa & ENS-PSL, Paris)  
 February - May 2023  
 Topic: How Do Pretrained Language Models Deal with Negation? The case of Italian  
-Co-supervisors: Thierry Poibeau (Lattice), Alessandro Lenci (Pisa), Pascal Amsili  
+Co-supervisors: Thierry Poibeau (Lattice), Alessandro Lenci (Pisa), Pascal Amsili  (Lattice)
 Outcome: Master's thesis defended; published paper at CLiC-it 2024; chapter in my PhD thesis
 
 **Leo Rongieras** (Université Paris Cité)  
 May - June 2023  
 Topic: Impact of context polarity on encoding in contextual embeddings  
-Co-supervisor: Marie Candito
+Co-supervisor: Marie Candito (LLF)
 
-**Milena Nedeljkovic** (École Polytechnique, Palaiseau)  
+**Milena Nedeljkovic** (École Polytechnique)  
 January - April 2023  
 Topic: Impact of negation on the distribution of lexical items  
-Co-supervisor: Marie Candito  
+Co-supervisor: Marie Candito  (LLF)
 Outcome: Bachelor's thesis defended and validated; results integrated in my PhD thesis
 
 ### Thesis Committee Member
@@ -163,7 +163,7 @@ Outcome: Bachelor's thesis defended and validated; results integrated in my PhD 
 - September 2022: Haiyan QIU, "An analysis of negation in Natural Language Inference benchmarks"
 
 **Master 1 Committee:**
-- June 2024: Students from Master Cognitive Science, ENS-PSL (Licence 3 internship evaluation)
+- June 2024: Master Cognitive Science, ENS-PSL (Licence 3 internship)
 
 ---
 
@@ -175,11 +175,10 @@ September 2018 - August 2019
 
 ---
 
-## Publications
+## Selected Publications
 
-### International Conference Papers (Peer-Reviewed)
+### Conference Papers (Peer-Reviewed)
 
-**2025**
 
 1. **Polarity inversion operators in PLM**  
    David Kletz, Pascal Amsili, and Marie Candito  
@@ -195,43 +194,20 @@ September 2018 - August 2019
    *10th Workshop on Financial Technology and Natural Language Processing (FinNLP)*  
    DOI: 10.18653/v1/2025.finnlp-2.9
 
-4. **Better Together: Towards Localizing Fact-Related Hallucinations using Open Small Language Models**  
-   David Kletz, Sandra Mitrović, Ljiljana Dolamic, and Fabio Rinaldi  
-   *CHOMPS Workshop*, December 2025 [Accepted]
-
-**2023**
-
-5. **The Self-Contained Negation Test Set**  
+4. **The Self-Contained Negation Test Set**  
    David Kletz, Pascal Amsili, and Marie Candito  
    *6th BlackboxNLP Workshop: Analyzing and Interpreting Neural Networks for NLP*, pages 212-221, Singapore  
    DOI: 10.18653/v1/2023.blackboxnlp-1.16
 
-6. **Probing structural constraints of negation in Pretrained Language Models**  
+5. **Probing structural constraints of negation in Pretrained Language Models**  
    David Kletz, Marie Candito, and Pascal Amsili  
    *24th Nordic Conference on Computational Linguistics (NoDaLiDa)*, pages 541-554, Tórshavn, Faroe Islands
 
-7. **EvoSem: A database of polysemous cognate sets**  
+6. **EvoSem: A database of polysemous cognate sets**  
    Mathieu Dehouck, Alex François, Siva Kalyan, Martial Pastor, and David Kletz  
    *4th Workshop on Computational Approaches to Historical Language Change (LChange)*, pages 66-75, Singapore  
    DOI: 10.18653/v1/2023.lchange-1.7
 
-**2022**
-
-8. **A Methodology for Building a Diachronic Dataset of Semantic Shifts and its Application to QC-FR-Diac-V1.0**  
-   David Kletz, Philippe Langlais, François Lareau, and Patrick Drouin  
-   *13th Language Resources and Evaluation Conference (LREC)*, pages 2117-2125, Marseille, France
-
-### National Conference Papers
-
-9. **The Self-Contained Italian Negation Test (SCIN)**  
-   Viola Gullace, David Kletz, Thierry Poibeau, Alessandro Lenci, and Pascal Amsili  
-   *10th Italian Conference on Computational Linguistics (CLiC-it 2024)*, pages 425-430, Pisa, Italy
-
-### Research Datasets and Resources
-
-- **Lucifer Dataset** (2025) - Hallucination annotation dataset
-- **EvoSem Database** (2023) - Polysemous cognate sets
-- **QC-FR-Diac-V1.0** (2022) - Diachronic reference for French
 
 [Full publication list](/publications/)
 
@@ -239,20 +215,19 @@ September 2018 - August 2019
 
 ## Selected Invited Talks
 
-- "Negation encoding in PLMs: Syntactic constraints and consequences" - IDSIA NLP Group, Lugano, Switzerland (2025)
 - "Negation encoding in PLMs: Syntactic constraints and consequences" - ColingLab Seminar, Scuola Normale Superiore, Pisa, Italy (2024)
 - "Probing structural constraints of negation in Pretrained Language Models" - NLP Group, Saarland University, Saarbrücken, Germany (2023)
-- "Probing structural constraints of negation in Pretrained Language Models" - Lattice NLP Group, Paris, France (2023)
-- "Probing structural constraints of negation in Pretrained Language Models" - LLF-LI, Paris, France (2023)
-
 
 ---
 
 ## Contact Information
 
-**Email:** david.kletz@supsi.ch  
-**Office:** IDSIA, East Campus USI-SUPSI Via la Santa 1. CH-6962 Lugano-Viganello 
+**Email:** david.kletz@supsi.ch
+
+**Office:** IDSIA, East Campus USI-SUPSI Via la Santa 1. CH-6962 Lugano-Viganello
+
 **Website:** [https://davkletz.github.io](https://davkletz.github.io)  
+
 **GitHub:** [github.com/davkletz](https://github.com/davkletz)
 
 ---
