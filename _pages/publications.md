@@ -77,14 +77,6 @@ European Language Resources Association
 [Paper](https://aclanthology.org/2022.lrec-1.228/)
 
 
-
-## About My Publications
-
-My research is situated at the intersection of theoretical linguistics and natural language processing, within the field of computational linguistics. My work focuses on understanding how linguistic theory can inform and improve neural language models, with particular emphasis on negation processing, hallucination detection in LLMs, multilingual capabilities, and model interpretability.
-
-**Note on Publication Venues:** In the NLP/computational linguistics community, peer-reviewed conference proceedings (especially those indexed in the ACL Anthology) are the primary publication venue and carry significant weight, similar to journal articles in other disciplines. All conferences and workshops listed below underwent rigorous peer review with multiple expert reviewers.
-
-
 ---
 
 ## Other Publications
