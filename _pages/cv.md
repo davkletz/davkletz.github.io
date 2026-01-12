@@ -16,11 +16,10 @@ redirect_from:
 ## Current Position
 
 **Postdoctoral Researcher**  
-IDSIA (Dalle Molle Institute for Artificial Intelligence)  
-SUPSI (Scuola Universitaria Professionale della Svizzera Italiana)  
+[IDSIA](https://www.idsia.usi-supsi.ch/) (Dalle Molle Institute for Artificial Intelligence) - [SUPSI](https://www.supsi.ch/)
 Lugano, Switzerland  
 February 2025 - Present  
-Supervisor: Fabio Rinaldi
+Supervisor: [Fabio Rinaldi](https://nlp.idsia.ch/PEOPLE/Fabio/fabiorinaldi.html)
 
 ---
 
@@ -31,36 +30,21 @@ Université Sorbonne Nouvelle, Paris, France
 February 2025  
 Thesis: *Négation et Modèles de Langue Pré-entraînés* (Negation and Pretrained Language Models)  
 Supervisors: Marie Candito (MCF-HDR, Université Paris Cité) and Pascal Amsili (Professor, Université Sorbonne Nouvelle)  
-Research Labs: Lattice (UMR8094) and LLF (UMR 7110)
+Research Labs: [Lattice](https://www.lattice.cnrs.fr/) (UMR8094) and [LLF](http://www.llf.cnrs.fr/) (UMR 7110)
 
 **Master's Degree (Maîtrise) in Computer Science**  
 Specialization: Artificial Intelligence  
 Université de Montréal, Québec, Canada  
 2021  
-Research Lab: RALI (Recherche Appliquée en Linguistique Informatique)  
+Research Lab: [RALI](http://rali.iro.umontreal.ca/rali/fr) (Recherche Appliquée en Linguistique Informatique)  
 Thesis: *Méthodologies pour la détection de diachronies sémantiques et leurs impacts*  
-Supervisor: Philippe Langlais
+Supervisor: [Philippe Langlais](https://diro.umontreal.ca/repertoire-departement/professeurs/professeur/in/in14396/sg/Philippe%20Langlais/)
 
 **Bachelor's Degree (Licence) in Computer Science**  
 Specialization: DANT (Développement d'Applications Nouvelles Technologies)  
-Sorbonne Université, Paris, France  
+[Sorbonne Université](https://www.sorbonne-universite.fr), Paris, France  
 2019
 
-
----
-
-## Research Labs & Affiliations
-
-**Current:**
-- IDSIA (Dalle Molle Institute for Artificial Intelligence), SUPSI, Lugano, Switzerland
-
-**Past:**
-- Lattice (UMR8094 - CNRS, Sorbonne Nouvelle, ENS-PSL), Paris, France
-- LLF (UMR 7110 - CNRS, Université Paris Cité), Paris, France
-- RALI (Université de Montréal), Montréal, Canada
-
-
----
 
 ## Research Interests
 
@@ -135,25 +119,15 @@ My research is situated at the intersection of theoretical linguistics and natur
 **Viola Gullace** (Scuola Normale Superiore, Pisa & ENS-PSL, Paris)  
 November 2023 - June 2024  
 Topic: Impact of context polarity on encoding in contextual embeddings  
-Co-supervisor: Thierry Poibeau (Lattice)  
-Outcome: Master's thesis defended and validated; chapter in my PhD thesis
 
 **Viola Gullace** (Università di Pisa & ENS-PSL, Paris)  
 February - May 2023  
 Topic: How Do Pretrained Language Models Deal with Negation? The case of Italian  
-Co-supervisors: Thierry Poibeau (Lattice), Alessandro Lenci (Pisa), Pascal Amsili  (Lattice)
-Outcome: Master's thesis defended; published paper at CLiC-it 2024; chapter in my PhD thesis
-
-**Leo Rongieras** (Université Paris Cité)  
-May - June 2023  
-Topic: Impact of context polarity on encoding in contextual embeddings  
-Co-supervisor: Marie Candito (LLF)
+Outcome: paper at CLiC-it 2024
 
 **Milena Nedeljkovic** (École Polytechnique)  
 January - April 2023  
 Topic: Impact of negation on the distribution of lexical items  
-Co-supervisor: Marie Candito  (LLF)
-Outcome: Bachelor's thesis defended and validated; results integrated in my PhD thesis
 
 ### Thesis Committee Member
 
