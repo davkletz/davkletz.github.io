@@ -88,7 +88,7 @@ European Language Resources Association
 Sandra Mitrović, David Kletz, Ljiljana Dolamic, and Fabio Rinaldi  
 [arXiv:2510.21561, 2025](https://arxiv.org/abs/2510.21561)
 
-### Journal Articles (Non Peer-Reviewed)
+### Journal
 
 **Detection of recurring defects in airline incident report**  
 D. Kletz, P. Langlais, V. Letard, L. Pages, F. Piedboeuf, H. S. Dos Santos, T. Y. Zhou, D.A. Hermelo, I. Elbaz, T. Gao, and F. Gotti  
