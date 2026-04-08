@@ -13,6 +13,14 @@ author_profile: true
 
 ## Conference Papers (Peer-Reviewed)
 
+### 2026
+**Are the LLMs Capable of Maintaining at Least the Language Genus?**  
+Sandra Mitrović\*, David Kletz\*, Ljiljana Dolamic, and Fabio Rinaldi 
+
+*Proceedings of the Thirty-Second Language Resources and Evaluation Conference (LREC)*, Plama de Majorque, Spain  
+European Language Resources Association  
+[Paper] 
+
 ### 2025
 
 **Polarity inversion operators in PLM**  
@@ -36,7 +44,9 @@ Oscar Lithgow-Serrano, David Kletz, Vani Kanjirangat, David Adametz, Marzio Lung
 **Better Together: Towards Localizing Fact-Related Hallucinations using Open Small Language Models**  
 David Kletz, Sandra Mitrović, Ljiljana Dolamic, and Fabio Rinaldi  
 *Proceedings of the CHOMPS Workshop*, December 2025  
-[Accepted, proceedings forthcoming] [Workshop website](https://chomps-workshop.github.io/)
+[DOI: 10.18653/v1/2025.chomps-main.3](https://aclanthology.org/2025.chomps-main.3/)
+
+
 
 
 ### 2024
@@ -82,11 +92,20 @@ European Language Resources Association
 ## Other Publications
 
 
-### Preprints
+### Preprint
 
-**Are the LLMs Capable of Maintaining at Least the Language Genus?**  
-Sandra Mitrović, David Kletz, Ljiljana Dolamic, and Fabio Rinaldi  
-[arXiv:2510.21561, 2025](https://arxiv.org/abs/2510.21561)
+**Automatic Prompt Optimization for Dataset-Level Feature Discovery**
+Cosma, A., Szehr, O., Kletz, D., Antonucci, A., & Pelletier, O. (2026). [arXiv preprint arXiv:2601.13922](https://arxiv.org/abs/2601.13922).
+
+### National conference
+
+**Presenting LLMs’ collective intelligence
+approach for Multilingual
+Hallucination Detection**
+Sandra Mitrović\*, Joseph Cornelius\*, David Kletz\*, Ljiljana Dolamic, and Fabio Rinaldi
+*Proceedings of the 10th edition of the Swiss Text Analytics Conference*
+[Abstrace on ACL Anthology](https://aclanthology.org/2025.swisstext-1.17/)
+
 
 ### Journal
 

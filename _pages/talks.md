@@ -29,14 +29,6 @@ Sandra Mitrović, Joseph Cornelius, David Kletz, Ljiljana Dolamic, and Fabio Rin
 
 ---
 
-**Assessing RAG System Capabilities on Financial Documents**  
-*10th Workshop on Financial Technology and Natural Language Processing (FinNLP)*  
-Vienna, Austria | July 2025  
-
-**Abstract:** We develop a comprehensive benchmark for evaluating RAG systems on financial documents, comparing four state-of-the-art architectures including graph-based and traditional retrieval approaches.
-
----
-
 **Better Together: Towards Localizing Fact-Related Hallucinations using Open Small Language Models**  
 *CHOMPS Workshop*  
 Mumbay, India | December 2025  
@@ -169,4 +161,4 @@ February 4, 2025
 
 ---
 
-*Last updated: January 2025*
+*Last updated: October 2025*

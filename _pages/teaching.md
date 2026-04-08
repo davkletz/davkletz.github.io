@@ -12,11 +12,26 @@ author_profile: true
 
 ## Courses Taught
 
+### Computational Linguistics
+** TA | SUPSI | Bachelor, S6 | 60 hours**  
+*2024-2025, 2025-2026*
+
+This course offers a comprehensive introduction to Natural Language Processing, designed for final-semester Data Science students with strong programming background (Python) and prior coursework in machine learning.
+
+**Course Objectives:**
+
+- Overview of the key challenges and applications in NLP
+- Presentation of major models and architectures, from classical statistical approaches to modern systems (n-grams, Word2Vec, RNN, LSTM, Transformers, and recent LLMs). Particular emphasis is placed on understanding models from the ground up
+- Strong practical component, including hands-on implementation and comparison of core NLP architectures
+
+
+---
+
 ### Computational Linguistics (Linguistique Computationnelle)
 **Université Sorbonne Nouvelle | Master 1 | 36 hours CM**  
 *2022-2023, 2023-2024, 2024-2025*
 
-This course offers an in-depth introduction to Natural Language Processing (NLP) designed for students from language sciences backgrounds, particularly in digital humanities.
+This course offers an in-depth introduction to Natural Language Processing designed for students from language sciences backgrounds, particularly in digital humanities.
 
 **Course Objectives:**
 - Present the central objectives, techniques, and challenges of NLP
