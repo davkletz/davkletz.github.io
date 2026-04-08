@@ -19,7 +19,7 @@ Sandra Mitrović\*, David Kletz\*, Ljiljana Dolamic, and Fabio Rinaldi
 
 *Proceedings of the Thirty-Second Language Resources and Evaluation Conference (LREC)*, Plama de Majorque, Spain  
 European Language Resources Association  
-[Paper] 
+[Program](https://lrec2026.info/conference-programme/conference-programme-day3/) 
 
 ### 2025
 
