@@ -83,8 +83,7 @@ Course covering object-oriented programming paradigms, design patterns, and impl
 
 ### Research Internships Supervised
 
-**4 Master's research internships in co-supervision (January 2023 - June 2024)**
-
+**Master's research internships**
 
 #### Viola Gullace (Second Internship)
 **Scuola Normale Superiore, Pisa & ENS-PSL, Paris**  
@@ -105,18 +104,29 @@ Course covering object-oriented programming paradigms, design patterns, and impl
 - Paper at CLiC-it 2024
 
 
+
+**Bachelor's research internships**
+
+#### Lorenzo de Appolonia
+**SUPSI, Bachelor, S6**  
+*March - August 2026*
+
+
+
+#### Milena Nedeljkovic
+**École Polytechnique, Palaiseau**  
+*January - April 2023*
+
+**Topic:** Impact of negation on the distribution of lexical items  
+
+
 #### Leo Rongieras
-**Université Paris Cité, Master**  
+**Université Paris Cité**  
 *May - June 2023*
 
 **Topic:** Study of the impact of context polarity on encoding in contextual embeddings  
 
 
-#### Milena Nedeljkovic
-**École Polytechnique, Palaiseau (Licence 3)**  
-*January - April 2023*
-
-**Topic:** Impact of negation on the distribution of lexical items  
 
 ---
 
@@ -129,7 +139,7 @@ Course covering object-oriented programming paradigms, design patterns, and impl
 - **September 2022:** Haiyan QIU - "An analysis of negation in Natural Language Inference benchmarks" (Université Sorbonne Nouvelle)
 
 **Master 1 Committees:**
-- **June 2024:** Evaluation of Master 1 internships, Master Cognitive Science, ENS-PSL
+- **June 2024:** Master 1 internships, Master Cognitive Science, ENS-PSL
 
 
 
