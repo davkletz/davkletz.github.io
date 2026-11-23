@@ -25,16 +25,16 @@ Vienna, Austria | July 2025
 Sandra Mitrović, Joseph Cornelius, David Kletz, Ljiljana Dolamic, and Fabio Rinaldi
 
 
-**Abstract:** We present a system for multilingual hallucination detection that leverages the collective intelligence of multiple LLMs to identify factual inconsistencies in generated text.
+**Abstract:** Our system detects hallucinations in several languages by combining the judgements of several LLMs on the same generated text.
 
 ---
 
 **Better Together: Towards Localizing Fact-Related Hallucinations using Open Small Language Models**  
 *CHOMPS Workshop*  
-Mumbay, India | December 2025  
+Mumbai, India | December 2025  
 David Kletz, Sandra Mitrović, Ljiljana Dolamic, and Fabio Rinaldi
 
-**Abstract:** We propose a method for fine-grained hallucination detection at the sentence level using combinations of open-source small language models, demonstrating competitive performance with large proprietary models.
+**Abstract:** We locate hallucinations at the sentence level by combining small open language models. Together they perform close to large proprietary models.
 
 ---
 
@@ -45,7 +45,7 @@ David Kletz, Sandra Mitrović, Ljiljana Dolamic, and Fabio Rinaldi
 Pisa, Italy | December 2024  
 Viola Gullace, David Kletz, Thierry Poibeau, Alessandro Lenci, and Pascal Amsili
 
-**Abstract:** We extend the Self-Contained Negation Test to Italian, evaluating how Italian pretrained language models handle semantic constraints imposed by negation.
+**Abstract:** We adapt the Self-Contained Negation Test to Italian and evaluate how Italian pretrained language models handle the semantic constraints of negation.
 
 ---
 
@@ -56,7 +56,7 @@ Viola Gullace, David Kletz, Thierry Poibeau, Alessandro Lenci, and Pascal Amsili
 Singapore | December 2023  
 David Kletz, Pascal Amsili, and Marie Candito
 
-**Abstract:** We introduce a novel evaluation methodology based on minimal pairs to assess whether pretrained language models have acquired knowledge of semantic constraints imposed by negation. Our self-contained test reveals that only very large generative models (LLMs like GPT-4) achieve near-perfect performance.
+**Abstract:** We test, with minimal pairs, whether pretrained language models know the semantic constraints that negation imposes. Only very large generative models such as GPT-4 come close to a perfect score.
 
 ---
 
@@ -65,7 +65,7 @@ David Kletz, Pascal Amsili, and Marie Candito
 Tórshavn, Faroe Islands | May 2023  
 David Kletz, Marie Candito, and Pascal Amsili
 
-**Abstract:** We investigate whether pretrained language models encode structural constraints imposed by negation, focusing on the licensing of negative polarity items. Using probing classifiers, we demonstrate that contextual embeddings encode information about structural zones defined by negation scope.
+**Abstract:** We use probing classifiers to test whether pretrained language models encode the scope of negation and the licensing of negative polarity items. Contextual embeddings do carry this information, but further controls suggest the models mostly capture clause boundaries.
 
 ---
 
@@ -76,29 +76,19 @@ David Kletz, Marie Candito, and Pascal Amsili
 Marseille, France | June 2022  
 David Kletz, Philippe Langlais, François Lareau, and Patrick Drouin
 
-**Abstract:** We propose a methodology for constructing diachronic datasets to study semantic shifts over time. We apply this methodology to create QC-FR-Diac-V1.0, a reference dataset for French covering newspapers from 1850 to 2000.
+**Abstract:** We describe how to build a diachronic dataset of semantic shifts, and use the method to create QC-FR-Diac-V1.0, a reference dataset for French covering newspapers from 1850 to 2000.
 
 ---
 
 ## Invited Seminars and Research Talks
 
-### 2025
+### 2024
 
 **Negation encoding in PLMs: Syntactic constraints and consequences**  
 *IDSIA NLP Group Seminar*  
 Dalle Molle Institute for Artificial Intelligence, Lugano, Switzerland  
 December 2024
 
-
----
-
-### 2024
-
-
-**Probing structural constraints of negation in Pretrained Language Models**  
-*NLP Group Seminar*  
-Saarland University, Saarbrücken, Germany  
-October 2024
 
 
 **Negation encoding in PLMs: Syntactic constraints and consequences**  
@@ -110,6 +100,13 @@ April 2024
 
 ### 2023
 
+
+**Probing structural constraints of negation in Pretrained Language Models**  
+*NLP Group Seminar*  
+Saarland University, Saarbrücken, Germany  
+2023
+
+---
 
 **Probing structural constraints of negation in Pretrained Language Models**  
 *Lattice NLP Group Seminar*  
@@ -161,4 +158,4 @@ February 4, 2025
 
 ---
 
-*Last updated: October 2025*
+*Last updated: November 2026*

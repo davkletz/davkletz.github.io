@@ -12,72 +12,69 @@ author_profile: true
 
 ## Courses Taught
 
-### Computational Linguistics
-**TA | SUPSI | Bachelor, S6 | 60 hours**  
-*2024-2025, 2025-2026*
+### Université Sorbonne Nouvelle (since 2026)
 
-This course offers an in-depth overview of Natural Language Processing, designed for final-semester Data Science students with strong programming background (Python) and prior coursework in machine learning.
+- Linguistic Analysis of Language Models (Master)
+- Programming 2 (Bachelor)
+- Programming 3 (Bachelor)
+- Web Programming (Bachelor)
+- Corpus Linguistics (Bachelor)
 
-**Course Objectives:**
+---
 
-- Overview of the key challenges and applications in NLP
-- Presentation of major models and architectures, from classical statistical approaches to modern systems (n-grams, Word2Vec, RNN, LSTM, Transformers, and recent LLMs). Particular emphasis is placed on understanding models from the ground up
-- Strong practical component, including hands-on implementation and comparison of core NLP architectures
+### NLP and Text Mining
+TA, SUPSI, Bachelor (6th semester)  
+*2024/25 and 2025/26*
 
+An NLP course for Data Science students in their last semester, who already know Python and machine learning. It goes from n-grams and Word2Vec through RNNs and LSTMs to Transformers and current LLMs. Students implement and compare these architectures themselves.
 
 ---
 
 ### Computational Linguistics (Linguistique Computationnelle)
-**Université Sorbonne Nouvelle | Master 1 | 36 hours CM**  
-*2022-2023, 2023-2024, 2024-2025*
+Université Sorbonne Nouvelle, Master 1  
+*2021 to 2024*
 
-This course offers an introduction to Natural Language Processing designed for students from language sciences backgrounds, particularly in digital humanities.
-
-**Course Objectives:**
-- Present the central objectives, techniques, and challenges of NLP
-- Explore historical and contemporary influences of NLP on theoretical linguistics
-- Cover methodological foundations from symbolic approaches to recent neural models
-- Develop critical understanding of NLP as a discipline at the intersection of AI and language sciences
+An introduction to NLP for students from the language sciences, many of them in digital humanities. I co-created the course. It covers NLP methods from symbolic approaches to neural models, and the ways NLP and linguistic theory have influenced each other. Students take a midterm, a final exam, and present a recent NLP paper in groups.
 
 ---
 
 ### Exploration of Annotated Corpora (Exploration informatique de corpus annotés)
-**Université Sorbonne Nouvelle | Licence 3 | 48 hours TD**  
-*2021-2022, 2022-2023*
+Université Sorbonne Nouvelle, Bachelor  
+*2021/22 and 2022/23*
 
-This course provides theoretical and practical training in the manipulation and analysis of annotated linguistic corpora, with a strong emphasis on formal methods and computational tools.
+Formal foundations (automata, regular expressions) and practical work on annotated corpora. Students run a project in Unitex/GramLab to find a linguistic phenomenon in a corpus. I coordinated several lab groups.
 
 ---
 
 ### Natural Language Processing (Traitement Automatique du Langage)
-**Université de Rouen Normandie | Master 2 | 10 hours TD**  
-*2023-2024*
+Université de Rouen Normandie, Master 2  
+*2023/24*
 
-An advanced NLP course designed for students with strong computer science backgrounds, focusing on recent developments in neural approaches and practical implementation.
+Lab sessions for computer science students: parsing, pretrained models, and calling NLP APIs from Python.
 
 ---
 
 ### Introduction to NLP (Introduction au TAL)
-**Université Sorbonne Nouvelle - ENEAD (Distance Learning) | Master 2 | 14 hours TD**  
-*2022-2023*
+Université Sorbonne Nouvelle, ENEAD (distance learning), Master 2  
+*2022/23*
 
-This distance learning course adapts the foundational content of Computational Linguistics for asynchronous delivery.
+The distance learning version of the Computational Linguistics course. I wrote the course manual with exercises and solutions, recorded short videos on the main concepts, and answered students on the forum.
 
 ---
 
 ### Introduction to Artificial Intelligence
-**Université de Montréal | Licence 3 | 180 hours TD**  
-*January 2021 - June 2021*
+Université de Montréal, Bachelor  
+*January to June 2021*
 
-Foundational course introducing core AI concepts, algorithms, and problem-solving approaches for undergraduate computer science students.
+Lab sessions on core AI concepts and algorithms for undergraduate computer science students.
 
 ---
 
-### Object-Oriented Programming (Programmation Orientée-Objet)
-**Université de Montréal | Licence-Master | 110 hours TD**  
-*September 2020 - January 2021*
+### Programming 2: Object Oriented Programming (Java)
+Université de Montréal, Bachelor  
+*September 2020 to January 2021*
 
-Course covering object-oriented programming paradigms, design patterns, and implementation in modern programming languages. Applied to Java.
+Lab sessions on object oriented programming and design patterns in Java.
 
 ---
 
@@ -85,46 +82,50 @@ Course covering object-oriented programming paradigms, design patterns, and impl
 
 **Master's research internships**
 
-#### Viola Gullace (Second Internship)
-**Scuola Normale Superiore, Pisa & ENS-PSL, Paris**  
-*November 2023 - June 2024*
+#### Davide Zapponi
+*2026*
 
-**Topic:** Study of the impact of context polarity on encoding in contextual embeddings  
+Topic: RAG architecture for legal query processing
+
+
+#### Viola Gullace (Second Internship)
+Scuola Normale Superiore, Pisa, and ENS-PSL, Paris  
+*November 2023 to June 2024*
+
+Topic: impact of context polarity on contextual embeddings  
 
 
 
 #### Viola Gullace (First Internship)
-**Università di Pisa & ENS-PSL, Paris**  
-*February - May 2023*
+Università di Pisa and ENS-PSL, Paris  
+*February to May 2023*
 
-**Topic:** How Do Pretrained Language Models Deal with Negation? The case of Italian  
-
-
-**Outcome:**
-- Paper at CLiC-it 2024
+Topic: *How Do Pretrained Language Models Deal with Negation? The case of Italian*. This work led to a paper at CLiC-it 2024.
 
 
 
 **Bachelor's research internships**
 
 #### Lorenzo de Appolonia
-**SUPSI, Bachelor, S6**  
-*March - August 2026*
+SUPSI, Bachelor (6th semester)  
+*March to August 2026*
+
+Topic: small models for constrained sentence generation
 
 
 
 #### Milena Nedeljkovic
-**École Polytechnique, Palaiseau**  
-*January - April 2023*
+École Polytechnique, Palaiseau  
+*January to April 2023*
 
-**Topic:** Impact of negation on the distribution of lexical items  
+Topic: impact of negation on the distribution of lexical items  
 
 
 #### Leo Rongieras
-**Université Paris Cité**  
-*May - June 2023*
+Université Paris Cité  
+*May to June 2023*
 
-**Topic:** Study of the impact of context polarity on encoding in contextual embeddings  
+Topic: impact of context polarity on contextual embeddings  
 
 
 
@@ -133,13 +134,17 @@ Course covering object-oriented programming paradigms, design patterns, and impl
 
 ## Thesis Committee Member
 
+**2026:**
+- Davide Zapponi (Università della Svizzera italiana)
+- Claudia Herambourg (Université Sorbonne Nouvelle)
+
 **Master 2 Committees:**
-- **April 2024:** Viola Gullace - "How Do Pretrained Language Models Deal with Negation? The case of Italian" (Università di Pisa)
-- **June 2023:** Delphine Nguyen-Durandet - "Détection automatique et études statistiques de la polarité en anglais" (Université Sorbonne Nouvelle)
-- **September 2022:** Haiyan QIU - "An analysis of negation in Natural Language Inference benchmarks" (Université Sorbonne Nouvelle)
+- April 2024: Viola Gullace, "How Do Pretrained Language Models Deal with Negation? The case of Italian" (Università di Pisa)
+- June 2023: Delphine Nguyen-Durandet, "Détection automatique et études statistiques de la polarité en anglais" (Université Sorbonne Nouvelle)
+- September 2022: Haiyan Qiu, "An analysis of negation in Natural Language Inference benchmarks" (Université Sorbonne Nouvelle)
 
 **Master 1 Committees:**
-- **June 2024:** Master 1 internships, Master Cognitive Science, ENS-PSL
+- June 2024: Master 1 internships, Cognitive Science Master, ENS-PSL
 
 
 

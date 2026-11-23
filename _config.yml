@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "David Kletz"
 title_separator          : "-"
 name                     : &name "David Kletz"
-description              : &description "David Kletz's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "David Kletz, Associate Professor (Maître de Conférences) in NLP at Université Sorbonne Nouvelle"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://davkletz.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,11 +26,12 @@ author:
   avatar           : "profile.png"
   name             : "David Kletz"
   pronouns         : # example: "she/her"  
-  bio              : "NLP researcher"
-  location         : "Lugano"
-  employer         : "IDSIA (SUPSI-USI)"
+  bio              : "Associate Professor in NLP"
+  location         : "Paris, France"
+  employer         : "Université Sorbonne Nouvelle"
+  employer_detail  : "LaTTiCe (UMR 8094)"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "david.kletz@sorbonne-nouvelle.fr" 
 
   # Academic websites
   academia         : # URL
@@ -66,7 +67,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "david-kletz-00b5a6412"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
