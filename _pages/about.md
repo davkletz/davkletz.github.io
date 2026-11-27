@@ -9,7 +9,7 @@ redirect_from:
 
 I am an Associate Professor (*Maître de Conférences*) in Natural Language Processing at [Université Sorbonne Nouvelle](https://www.sorbonne-nouvelle.fr/) in Paris, and a member of the [LaTTiCe](https://www.lattice.cnrs.fr/) laboratory (UMR 8094, CNRS, Sorbonne Nouvelle, ENS-PSL).
 
-From 2025 to 2026 I was a postdoctoral researcher at [IDSIA](https://www.idsia.usi-supsi.ch/) (SUPSI and USI) in Lugano, in the NLP and AI & Finance teams of [Fabio Rinaldi](https://nlp.idsia.ch/PEOPLE/Fabio/fabiorinaldi.html). Before that I did my PhD at Sorbonne Nouvelle on how pretrained language models handle negation, supervised by Marie Candito and Pascal Amsili ([LaTTiCe](https://www.lattice.cnrs.fr/) and [LLF](http://www.llf.cnrs.fr/)). I defended it in February 2025.
+From 2025 to 2026 I was a postdoctoral researcher at [IDSIA](https://www.idsia.usi-supsi.ch/) (SUPSI and USI) in Lugano, in the NLP and AI & Finance teams, supervised by [Fabio Rinaldi](https://nlp.idsia.ch/PEOPLE/Fabio/fabiorinaldi.html) and [Oleg Szehr](https://ai-finance.idsia.ch/people/#oleg-szehr). Before that I did my PhD at Sorbonne Nouvelle on how pretrained language models handle negation, supervised by Marie Candito and Pascal Amsili ([LaTTiCe](https://www.lattice.cnrs.fr/) and [LLF](http://www.llf.cnrs.fr/)). I defended it in February 2025.
 
 I see computational linguistics as part of the language sciences: I use language models to test claims from linguistic theory, and linguistic theory to understand what the models do.
 

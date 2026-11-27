@@ -26,7 +26,7 @@ Research themes: multilingual models (representations and tokenization) and late
 **Postdoctoral Researcher** (*Ricercatore con Ph.D.*)  
 [IDSIA](https://www.idsia.usi-supsi.ch/) - SUPSI / USI, Lugano, Switzerland  
 2025 to 2026  
-NLP and AI & Finance teams. Principal investigator: [Fabio Rinaldi](https://nlp.idsia.ch/PEOPLE/Fabio/fabiorinaldi.html)
+NLP and AI & Finance teams. Supervisors: [Fabio Rinaldi](https://nlp.idsia.ch/PEOPLE/Fabio/fabiorinaldi.html) and [Oleg Szehr](https://ai-finance.idsia.ch/people/#oleg-szehr)
 
 **Data Scientist and Analyst**  
 Thales LAS France, Paris, France  
